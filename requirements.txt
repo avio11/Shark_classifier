@@ -1,5 +1,5 @@
 jupyter
-voila
+voila=0.1.21
 pillow
 fastai2>=0.0.11
 graphviz
