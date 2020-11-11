@@ -11,3 +11,4 @@ scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
 fastprogress>=0.1.22
+torch==1.4.0
